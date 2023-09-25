@@ -1,3 +1,5 @@
+Conway's Game of Life using Open MPI.
+
 In order for this program to work correctly follow the following steps:
 
 1. Compile and run the initital_image.c file to create and initial image.
